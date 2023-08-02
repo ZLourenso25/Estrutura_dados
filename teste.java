@@ -1,5 +1,6 @@
-class teste
-    public static void main(String Entrada[]) {
-        System.out.println("Hello World")
-        
+class Teste{
+        public static void main(String entrada []){
+             System.out.println("Hello Word");
+       
+        }
     }
